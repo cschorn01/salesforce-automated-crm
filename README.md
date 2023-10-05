@@ -1,9 +1,8 @@
 # salesforce-automated-crm
-Salesforce Apex scripts, with tests, for automating customer interactions. 
 
 [![By Chris Schorn](https://img.shields.io/badge/Author-Chris_Schorn-FFFFFF?style=for-the-badge)](https://github.com/cschorn01)
 ![Status](https://img.shields.io/badge/Status-working-FFFFFF?style=for-the-badge)
-[![Download salesforce-automated-crm Zip](https://img.shields.io/badge/Download_salesforce-automated-crm_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/salesforce-automated-crm/archive/refs/heads/main.zip)
+[![Download salesforce-automated-crm Zip](https://img.shields.io/badge/Download_salesforce_automated_crm_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/salesforce-automated-crm/archive/refs/heads/main.zip)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-A31B34?style=for-the-badge)](https://mit-license.org/) **Not MIT Licensed, just an example**
 
@@ -20,6 +19,7 @@ Salesforce Apex scripts, with tests, for automating customer interactions.
 
 ## ![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)
 
+Salesforce Apex scripts, with tests, for automating customer interactions.
 
 ## ![Functionality](https://img.shields.io/badge/Functionality-FFFFFF?style=for-the-badge)
 

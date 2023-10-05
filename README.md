@@ -5,7 +5,7 @@
 [![Download salesforce-automated-crm Zip](https://img.shields.io/badge/Download_salesforce_automated_crm_Zip-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/salesforce-automated-crm/archive/refs/heads/main.zip)
 
 <!-- [![MIT License](https://img.shields.io/badge/License-MIT-A31B34?style=for-the-badge)](https://mit-license.org/) **Not MIT Licensed, just an example** -->
-[![Salesforce](https://img.shields.io/badge/Salesforce-1AA3DD?style=for-the-badge")](https://www.salesforce.com/)
+![![Salesforce](https://img.shields.io/badge/Salesforce-1AA3DD?style=for-the-badge")](https://www.salesforce.com/)
 
 [![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/salesforce-automated-crm/tree/main#description)
 [![Functionality](https://img.shields.io/badge/Functionality-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/salesforce-automated-crm/tree/main#functionality)

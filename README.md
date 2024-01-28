@@ -12,8 +12,6 @@
 [![How to Use](https://img.shields.io/badge/how_to_use-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/salesforce-automated-crm/tree/main#how-to-use)
 [![Issues](https://img.shields.io/badge/issues-FFFFFF?style=for-the-badge)](https://github.com/cschorn01/salesforce-automated-crm/blob/main/README.md#issues)
 
-[![Stargazers repo roster for @cschorn01/salesforce-automated-crm](https://reporoster.com/stars/cschorn01/salesforce-automated-crm)](https://github.com/cschorn01/salesforce-automated-crm/stargazers)
-
 
 ## ![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)
 

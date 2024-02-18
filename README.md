@@ -15,10 +15,11 @@
 
 ## ![Description](https://img.shields.io/badge/Description-FFFFFF?style=for-the-badge)
 
-Salesforce Apex scripts, with tests, for automating customer interactions.
+Salesforce Apex scripts, with tests, for automating customer interactions. This is the basis for a larger project that automates most of the role of a secretary for a financial advisor.
 
 ## ![Functionality](https://img.shields.io/badge/Functionality-FFFFFF?style=for-the-badge)
 
+Within Salesforce these scripts will be run daily by a batching request. Each script grabs all the clients with data pertinent to that day. The scripts will send emails, delegate tasks, and setup meetings for you. All that is needed is a scheduler and they can run every morning.
 
 ## ![File Structure](https://img.shields.io/badge/file_structure-FFFFFF?style=for-the-badge)
 <!-- Emoji Cheat Sheet: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
@@ -28,6 +29,7 @@ Salesforce Apex scripts, with tests, for automating customer interactions.
 
 ## ![How to Use](https://img.shields.io/badge/how_to_use-FFFFFF?style=for-the-badge)
 
+Begin by copying the code into your Salesforce sandbox. Then add all the data fields needed to the Contact Object. This is because you are limited by custom objects. You will have to add your own scheduler code as I have omitted it in this case. I left if because it was used by another business owner, may add another one in.
 
 ## ![Issues](https://img.shields.io/badge/issues-FFFFFF?style=for-the-badge)
 
